@@ -35,4 +35,5 @@ func main() {
 	p.pSpeak()
 	fmt.Println(sa.licenseToKill)
 	sa.saSpeak()
+	sa.pSpeak()
 }
